@@ -11,34 +11,11 @@ The blochchains were deployed within a docker container
 
 ## prequesites
 
-```
-Node js and NPM vs 18 or higher
-```
-
-```
-Git
-```
-
-```
-Docker
-```
-
-```
-Docker-Compose
-```
-
-```
-Golang
-```
-
-```
-Java (JDK and JRE)
-```
-
-```
-Rust
-```
-
-```
-Yarn
-```
+- `Node js and NPM vs 18 or higher`
+- `Git`
+- `Docker`
+- `Docker-Compose`
+- `Golang`
+- `Java (JDK and JRE)`
+- `Rust`
+- `Yarn`
