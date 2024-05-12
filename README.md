@@ -11,11 +11,12 @@ The blochchains were deployed within a docker container
 
 ## prequesites
 
+- `VM with 16GBRAM 1TB space`
+- `LINUX Operating system`
 - `Node js and NPM vs 18 or higher`
 - `Git`
 - `Docker`
 - `Docker-Compose`
 - `Golang`
-- `Java (JDK and JRE)`
 - `Rust`
 - `Yarn`

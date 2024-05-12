@@ -33,6 +33,7 @@ func (t *IdentityChaincode) Invoke(stub shim.ChaincodeStubInterface) peer.Respon
     return shim.Error("Invalid function name")
 }
 
+//CREATING IDENTITY
 func (t *IdentityChaincode) createIdentity(stub shim.ChaincodeStubInterface, args []string) peer.Response {
     if len(args) != 6 {
         return shim.Error("Incorrect number of arguments. Expecting 6")
