@@ -8,6 +8,7 @@ An experiment was conducted with the weaver framework to evalute the proposed mo
 The experiment was carried out using a VM with specifications of 16gb RAM, x64
 
 The blochchains were deployed within a docker container
+the complele set up can be found in appendix F of the project
 
 ## prequesites
 
